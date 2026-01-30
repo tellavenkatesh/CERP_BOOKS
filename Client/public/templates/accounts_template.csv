@@ -1,0 +1,3 @@
+Name,Code,Type,ParentCode,OpeningBalance,Description
+Cash,1001,Asset,,1000,Petty Cash
+Bank,1002,Asset,,5000,Main Account

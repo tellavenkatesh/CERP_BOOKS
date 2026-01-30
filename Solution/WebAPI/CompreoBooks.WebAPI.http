@@ -1,0 +1,6 @@
+@CompreoBooks.WebAPI_HostAddress = http://localhost:5110
+
+GET {{CompreoBooks.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
